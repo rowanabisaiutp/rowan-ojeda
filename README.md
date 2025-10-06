@@ -16,37 +16,85 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Habilidades Técnicas
 
-### Lenguajes de Programación
+### 💻 Lenguajes de Programación
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Backend
+### 🎨 Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
 
-### Herramientas y Otros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ Infraestructura y Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🎨 UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Flutter Flow](https://img.shields.io/badge/Flutter_Flow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🛠️ Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
+## 🌍 Idiomas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🇪🇸 Español</strong><br/>
+        <sub>Nativo</sub>
+      </td>
+      <td align="center">
+        <strong>🇺🇸 Inglés</strong><br/>
+        <sub>B1 Intermedio</sub><br/>
+        <sub><em>En preparación final</em></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎓 Cursos y Certificados
+
+### 🏆 Certificaciones
+- **Google Cloud Computing** (2022-2023) ✅ *Con certificado*
+- **DevOps** - Control de versiones
+- **Git y GitHub** - Control de versiones
+
+### 💡 Habilidades Personales
+- 🔍 **Autodidacta** - Aprendizaje continuo y proactivo
+- 🎯 **Resolutivo** - Enfoque en soluciones efectivas
+- 💬 **Buena comunicación** - Trabajo colaborativo
+- 👥 **Trabajo en equipo** - Colaboración efectiva
+- 🤝 **Participativo** - Activo en proyectos y discusiones
 
 ---
 
@@ -92,11 +140,13 @@
 
 ## 🎯 Metas para 2024
 
-- [ ] Aprender React Native y Flutter
-- [ ] Contribuir a proyectos open source de UI/UX
-- [ ] Crear aplicaciones móviles innovadoras
-- [ ] Mejorar habilidades en diseño de interfaces
-- [ ] Ayudar a otros desarrolladores principiantes
+- [ ] Completar certificación de inglés (B2/C1)
+- [ ] Dominar React Native para desarrollo móvil
+- [ ] Profundizar en Azure DevOps y Google Cloud
+- [ ] Crear proyectos full-stack con .NET y Angular
+- [ ] Contribuir a proyectos open source
+- [ ] Mejorar habilidades en UI/UX con Figma
+- [ ] Desarrollar aplicaciones con Flutter Flow
 
 ---
 
