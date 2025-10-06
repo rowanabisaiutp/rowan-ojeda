@@ -138,7 +138,7 @@
 
 ---
 
-## 🎯 Metas para 2024
+## 🎯 Metas para 2025
 
 - [ ] Completar certificación de inglés (B2/C1)
 - [ ] Dominar React Native para desarrollo móvil
