@@ -53,11 +53,11 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rowan-ojeda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rowanabisaiutp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowan-ojeda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanabisaiutp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowan-ojeda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowanabisaiutp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
 ## 🏆 Logros
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rowan-ojeda&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rowanabisaiutp&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
 ## 📚 Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rowan-ojeda&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rowanabisaiutp&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -103,13 +103,13 @@
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:rowan.ojeda@ejemplo.com">
+  <a href="mailto:rowan.abisai@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/rowan-ojeda">
+  <a href="https://linkedin.com/in/rowanabisaiutp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rowan-ojeda">
+  <a href="https://github.com/rowanabisaiutp">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://rowan-portfolio.com">
@@ -120,10 +120,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rowan-ojeda&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rowanabisaiutp&style=for-the-badge&color=blue" alt="Profile Views" />
   
-  ![GitHub followers](https://img.shields.io/github/followers/rowan-ojeda?style=for-the-badge&color=green)
-  ![GitHub stars](https://img.shields.io/github/stars/rowan-ojeda?style=for-the-badge&color=yellow)
+  ![GitHub followers](https://img.shields.io/github/followers/rowanabisaiutp?style=for-the-badge&color=green)
+  ![GitHub stars](https://img.shields.io/github/stars/rowanabisaiutp?style=for-the-badge&color=yellow)
 </div>
 
 ---
