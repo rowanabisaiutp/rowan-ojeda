@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Rowan Ojeda Kumul]
+# ¡Hola! 👋 Soy Rowan Ojeda Kumul
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Siempre+aprendiendo+nuevas+cosas" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 **Desarrollador** especializado en [Desarrollo web y mobile]
+- 💻 **Desarrollador** especializado en Desarrollo web y mobile
 - 🌱 **Aprendiendo** nuevas tecnologías constantemente
 - 👯 **Buscando colaborar** en proyectos innovadores
 - 💬 **Pregúntame** sobre desarrollo web, programación o cualquier cosa
